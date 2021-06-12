@@ -1,0 +1,45 @@
+#topbar {
+
+width:2000px;
+margin-top:-10px;
+margin-left:-10px;
+height:40px;
+background-color: gray;
+
+}
+
+#tbw {
+
+    color:white;
+    margin-left: 200px;
+}
+
+#topbar2 {
+
+    width:2000px;
+    margin:auto;
+    margin-left:-10px;
+    height:40px;
+    background-color: red;
+    
+    }
+
+    #topbar3 {
+
+        width:2000px;
+        margin:auto;
+        margin-left:-10px;
+        height:40px;
+        background-color: blue;
+        
+        }
+
+        #topbar4 {
+
+            width:2000px;
+            margin:auto;
+            margin-left:-10px;
+            height:40px;
+            background-color: yellow;
+            
+            }
